@@ -6,7 +6,7 @@ import numpy as np
 
 
 
-file = open(r'./WhatsApp Chat with Vedika.txt',mode='r',encoding="utf8")
+file = open(r'./WhatsApp Chat with Vedika.txt',mode='r',encoding="utf8")  # no uploaded text file for privacy concerns
 data = file.read()
 file.close()
 
