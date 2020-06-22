@@ -1,5 +1,5 @@
 # Whatsapp-Chat-Analysis
-Code to analyse the various data associated with an exported Whatsapp chat
+Code to analyse the data associated with an exported Whatsapp chat
 
 Some of the analysed features:   
 (i) Texting pattern at different hours of a day   
